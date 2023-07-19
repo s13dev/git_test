@@ -1,2 +1,3 @@
 odin test;
 new line testing move;
+testing textastic and open copy;
